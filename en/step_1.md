@@ -15,7 +15,6 @@ You will:
 + Share a web address for your card
 
 **TODO - need a new banner**
-**TODO - noprint**
 
 --- no-print ---
 
@@ -26,16 +25,20 @@ You will:
 
 ### Play ▶️ 
 
-What happens when you click on each animal sprite?
+Click the green flag
+
+What happens when you click on the moving objects?
+
+What sounds play?
 
 Which blocks do you think were used?
 
 </div>
 <div>
 
-**Farmyard hello**: [See Project Page](https://scratch.mit.edu/projects/744399060){:target="_blank"}
+**World Environment Day**: [See Project Page](https://scratch.mit.edu/projects/460628546){:target="_blank"}
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/744399060/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -94,25 +97,18 @@ Play with these example projects to get ideas for your card:
   <iframe src="https://scratch.mit.edu/projects/996923965/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**World Environment Day 🌍**: [See inside](https://scratch.mit.edu/projects/460628546){:target="_blank"}
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
 --- /task ---
 
 --- /no-print ---
-
-**TODO - print only**
 
 --- print-only ---
 
 ### Get ideas 💭
 
-To get ideas for your card 💌, **See inside** example projects in the 'From me to you — Examples' Scratch studio: 
-https://scratch.mit.edu/studios/27073994
+To get ideas for your card 💌, **See inside** example projects in the 'World Environment Day' Scratch studio: 
+https://scratch.mit.edu/studios/35028571
 
-![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
+![A strip of example projects including cards for ocean recycling, pollination and a green school.](images/showcase_static.png)
 
 --- /print-only ---
 
