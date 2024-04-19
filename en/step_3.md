@@ -1,7 +1,36 @@
-## What next?
+## Plan your card 💌
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+Use this step to plan your card. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
 
-![ProjectName project](images/projectname-project.png)
+--- task ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Open the [World Environment Day starter project](https://scratch.mit.edu/projects/1004459944/editor/){:target="_blank"}. Scratch will open in another browser tab.
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/35028571){:target="_blank"}. 
+
+--- collapse ---
+---
+title: Working offline
+---
+
+For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Use your new Scratch project to plan your card. You don't have to add all the sprites and sounds now you can add more later. 
+
+You can also use ✏️ a pencil and a piece of paper to sketch your ideas.
+
+Think about the backdrop and sprites:
+- 🖼️ Which backdrop or background colours will you use in your card? 
+- 🗒️ What will your message look or sound like?
+- 🦁 Which characters and objects will you have in your card? 
+- 🏃‍♀️ Will the sprites be animated with movement or graphic effects
+- 👉 Will your audience interact with your card?
+- 🔉 Will your card have sound?
+
+--- /task ---
