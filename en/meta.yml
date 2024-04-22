@@ -1,0 +1,20 @@
+---
+title: World Environment Day
+hero_image: images/banner.png
+description: Make your own interactive digital card to share with someone for World Environment Day.
+version: 4
+listed: true
+copyedit: true
+last_tested: '2024-04-19'
+steps:
+- title: You will make
+- title: Your idea 💡
+  completion:
+  - engaged
+- title: Plan your card 💌
+- title: Make 🧱 and test 🔄
+  completion:
+  - internal
+- title: Share 🗣️ and play
+- title: Checklist ✅
+- title: What next?
