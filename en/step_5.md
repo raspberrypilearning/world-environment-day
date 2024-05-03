@@ -50,7 +50,6 @@ Inspire others who do this project with your card!
 
 As well as choosing a card to send to another Code Club, your club can submit as many projects as you like to our [‘World Environment Day — Community’ Scratch studio](https://scratch.mit.edu/studios/35028571) for other people to see. 
 
-**TODO** Update form?
 To submit your project to our Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions).
 
 --- /task ---
