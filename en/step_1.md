@@ -14,8 +14,6 @@ You will:
 + Choose which skills to use to make your card
 + Share a web address for your card
 
-**TODO - need a new banner**
-
 --- no-print ---
 
 --- task ---
